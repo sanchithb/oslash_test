@@ -22,11 +22,7 @@ Example-
 | MARKERS | Stationary  | 500 | 5% |
 
 ### Input Sample 1
->ADD_ITEM TSHIRT 2
-<br>
->ADD_ITEM NOTEBOOK 1
-<br>
->PRINT_BILL
+>ADD_ITEM TSHIRT 2 <br> ADD_ITEM NOTEBOOK 1 <br> PRINT_BILL
 
 ### Output Sample 1
 >ITEM_ADDED <br> ITEM_ADDED <br> TOTAL_DISCOUNT 240.00 <br> TOTAL_AMOUNT_TO_PAY 2156.00
